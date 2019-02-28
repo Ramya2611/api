@@ -1,31 +1,42 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "from":"Chennai",
+    "to":"Kanchipuram",
+    "distance":"72.7 Km",
+    "time":"1 hr 55 mins",
+    "charges":"Rs. 55"
+    
+  },
+  {
+    "from":"Pondicherry",
+    "to":"Kanchipuram",
+    "distance":"117 Km",
+    "time":"2 hr 28 mins",
+    "charges":"Rs. 40"
+    
+  },
+  {
+    "from":"Vellore",
+    "to":"Hosur",
+    "distance":"174 Km",
+    "time":"2 hr 42 mins",
+    "charges":"Rs. 230"
+    
+  },
+  {
+    "from":"Tambaram",
+    "to":"Chengalpattu",
+    "distance":"36.5 Km",
+    "time":"1 hr 0 mins",
+    "charges":"Rs. 60"
+    
+  },
+  {
+    "from":"Kanchipuram",
+    "to":"Vellore",
+    "distance":"70.4 Km",
+    "time":"1 hr 20 mins",
+    "charges":"Rs. 55"
+    
   }
-}
+]
